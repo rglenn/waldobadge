@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="waldo-badge-2015-r1-silkscreen-noscaffold.svg"
+   inkscape:export-filename="C:\Projects\waldobadge\pcb\waldo-badge-2015-r1-silkscreen.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200">
+  <defs
+     id="defs4">
+    <marker
+       orient="auto"
+       id="DistanceX"
+       style="overflow:visible"
+       refX="0.0"
+       refY="0.0">
+      <path
+         id="path4154"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5" />
+    </marker>
+    <pattern
+       id="Hatch"
+       x="0"
+       y="0"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8">
+      <path
+         id="path4157"
+         d="M8 4 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+      <path
+         id="path4159"
+         d="M6 2 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+      <path
+         id="path4161"
+         d="M4 0 l-4,4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square" />
+    </pattern>
+    <symbol
+       id="RECT" />
+    <symbol
+       id="PIE" />
+    <symbol
+       id="OCTAGONP" />
+    <symbol
+       id="SQUAREP" />
+    <symbol
+       id="ROUNDP" />
+    <symbol
+       id="ANNULUSP" />
+    <symbol
+       id="THERMALP" />
+    <symbol
+       id="OCTAGONV" />
+    <symbol
+       id="SQUAREV" />
+    <symbol
+       id="ROUNDV" />
+    <symbol
+       id="ANNULUSV" />
+    <symbol
+       id="THERMALV" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.0085108"
+     inkscape:cx="136.26893"
+     inkscape:cy="46.528272"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:36;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5270"
+       width="170.9039"
+       height="355.56128"
+       x="49.533939"
+       y="671.03796"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.102446;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4244"
+       width="170.65681"
+       height="45.684612"
+       x="49.49791"
+       y="774.12213"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.10045403;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4244-6"
+       width="170.96765"
+       height="43.845436"
+       x="49.422226"
+       y="885.61743"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:36;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4244-0"
+       width="133.3277"
+       height="13.121415"
+       x="68.25"
+       y="990.24078"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <image
+       y="820.42578"
+       x="97.472931"
+       id="image4301"
+       xlink:href="data:image/png;base64,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 "
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="64.207321"
+       width="67.5"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:none;stroke-width:0.05202765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 134.86604,671.35947 a 85.473984,85.473984 0 0 0 -82.37304,63.02539 l 164.82616,0 a 85.473984,85.473984 0 0 0 -82.45312,-63.02539 z"
+       id="path4854"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="59.787254"
+       y="815.41528"
+       id="text4871"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4873"
+         x="59.787254"
+         y="815.41528">Where's</tspan></text>
+    <rect
+       y="972.24078"
+       x="50.246151"
+       height="22.538536"
+       width="169.30968"
+       id="rect5266"
+       style="fill:#ffffff;stroke:none;stroke-width:36;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4875"
+       y="1009.4153"
+       x="62.150177"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="1009.4153"
+         x="62.150177"
+         id="tspan4877"
+         sodipodi:role="line">Waldo?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="57.137737"
+       y="740.99969"
+       id="text4879"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4881"
+         x="57.137737"
+         y="740.99969">LED1</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4883"
+       y="740.99969"
+       x="73.22979"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="740.99969"
+         x="73.22979"
+         id="tspan4885"
+         sodipodi:role="line">LED3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="90.857025"
+       y="740.99969"
+       id="text4897"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4899"
+         x="90.857025"
+         y="740.99969">LED5</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4901"
+       y="740.99969"
+       x="108.39674"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="740.99969"
+         x="108.39674"
+         id="tspan4903"
+         sodipodi:role="line">LED7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="125.93645"
+       y="740.99969"
+       id="text4905"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4907"
+         x="125.93645"
+         y="740.99969">LED9</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4909"
+       y="740.99969"
+       x="143.47617"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="740.99969"
+         x="143.47617"
+         id="tspan4911"
+         sodipodi:role="line">LED11</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="161.10793"
+       y="740.99969"
+       id="text4913"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4915"
+         x="161.10793"
+         y="740.99969">LED13</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4917"
+       y="740.99969"
+       x="178.60161"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="740.99969"
+         x="178.60161"
+         id="tspan4919"
+         sodipodi:role="line">LED15</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="196.09528"
+       y="740.99969"
+       id="text4921"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4923"
+         x="196.09528"
+         y="740.99969">LED17</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4925"
+       y="740.99969"
+       x="212.09528"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="740.99969"
+         x="212.09528"
+         id="tspan4927"
+         sodipodi:role="line">LED19</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4929"
+       y="756.99969"
+       x="57.137737"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="756.99969"
+         x="57.137737"
+         id="tspan4931"
+         sodipodi:role="line">LED2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="73.22979"
+       y="756.99969"
+       id="text4933"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4935"
+         x="73.22979"
+         y="756.99969">LED4</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4937"
+       y="756.99969"
+       x="90.857025"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="756.99969"
+         x="90.857025"
+         id="tspan4939"
+         sodipodi:role="line">LED6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="108.39674"
+       y="756.99969"
+       id="text4941"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4943"
+         x="108.39674"
+         y="756.99969">LED8</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4945"
+       y="756.99969"
+       x="125.93645"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="756.99969"
+         x="125.93645"
+         id="tspan4947"
+         sodipodi:role="line">LED10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="143.47617"
+       y="756.99969"
+       id="text4949"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4951"
+         x="143.47617"
+         y="756.99969">LED12</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4953"
+       y="756.99969"
+       x="161.10793"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="756.99969"
+         x="161.10793"
+         id="tspan4955"
+         sodipodi:role="line">LED14</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="178.60161"
+       y="756.99969"
+       id="text4957"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4959"
+         x="178.60161"
+         y="756.99969">LED16</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4961"
+       y="756.99969"
+       x="196.09528"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="756.99969"
+         x="196.09528"
+         id="tspan4963"
+         sodipodi:role="line">LED18</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="212.09528"
+       y="756.99969"
+       id="text4965"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4967"
+         x="212.09528"
+         y="756.99969">LED20</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4883-4"
+       y="85.818443"
+       x="-761.10504"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="85.818443"
+         x="-761.10504"
+         id="tspan4885-2"
+         sodipodi:role="line">SJ5</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-761.10504"
+       y="121.81844"
+       id="text4977"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4979"
+         x="-761.10504"
+         y="121.81844">SJ4</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4981"
+       y="153.28903"
+       x="-761.10504"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="153.28903"
+         x="-761.10504"
+         id="tspan4983"
+         sodipodi:role="line">SJ3</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-761.10504"
+       y="189.28903"
+       id="text4985"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4987"
+         x="-761.10504"
+         y="189.28903">SJ2</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4989"
+       y="207.28903"
+       x="-761.10504"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="207.28903"
+         x="-761.10504"
+         id="tspan4991"
+         sodipodi:role="line">SJ1</tspan></text>
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4993"
+       width="10.981473"
+       height="7.0382152"
+       x="208.12071"
+       y="757.6626"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       y="757.6626"
+       x="174.3763"
+       height="7.0382152"
+       width="10.981473"
+       id="rect4995"
+       style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4997"
+       width="10.981473"
+       height="7.0382152"
+       x="138.44933"
+       y="757.6626"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       y="757.6626"
+       x="106.90573"
+       height="7.0382152"
+       width="10.981473"
+       id="rect4999"
+       style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5001"
+       width="10.981473"
+       height="7.0382152"
+       x="70.978752"
+       y="757.6626"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="213.86227"
+       y="778.41412"
+       id="text4879-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan4881-8"
+         x="213.86227"
+         y="778.41412">0</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5021"
+       y="778.41412"
+       x="204.599"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="778.41412"
+         x="204.599"
+         id="tspan5023"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="195.8056"
+       y="778.41412"
+       id="text5025"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5027"
+         x="195.8056"
+         y="778.41412">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="186.599"
+       y="778.41412"
+       id="text5033"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5035"
+         x="186.599"
+         y="778.41412">3</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5037"
+       y="778.41412"
+       x="177.8056"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="778.41412"
+         x="177.8056"
+         id="tspan5039"
+         sodipodi:role="line">4</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5045"
+       y="778.41412"
+       x="168.599"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="778.41412"
+         x="168.599"
+         id="tspan5047"
+         sodipodi:role="line">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="159.8056"
+       y="778.41412"
+       id="text5049"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5051"
+         x="159.8056"
+         y="778.41412">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="150.599"
+       y="778.41412"
+       id="text5057"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5059"
+         x="150.599"
+         y="778.41412">7</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5065"
+       y="778.41412"
+       x="136.39238"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="778.41412"
+         x="136.39238"
+         id="tspan5067"
+         sodipodi:role="line">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="127.1291"
+       y="778.41412"
+       id="text5069"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5071"
+         x="127.1291"
+         y="778.41412">9</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5073"
+       y="778.41412"
+       x="118.33572"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="778.41412"
+         x="118.33572"
+         id="tspan5075"
+         sodipodi:role="line">10</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5077"
+       y="778.41412"
+       x="109.1291"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="778.41412"
+         x="109.1291"
+         id="tspan5079"
+         sodipodi:role="line">11</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="100.33572"
+       y="778.41412"
+       id="text5081"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5083"
+         x="100.33572"
+         y="778.41412">12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="91.129112"
+       y="778.41412"
+       id="text5085"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5087"
+         x="91.129112"
+         y="778.41412">13</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5089"
+       y="778.41412"
+       x="82.335716"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="778.41412"
+         x="82.335716"
+         id="tspan5091"
+         sodipodi:role="line">G</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5093"
+       y="778.41412"
+       x="73.129112"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="778.41412"
+         x="73.129112"
+         id="tspan5095"
+         sodipodi:role="line">Ar</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5101"
+       y="778.41412"
+       x="64.335716"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="778.41412"
+         x="64.335716"
+         id="tspan5103"
+         sodipodi:role="line">SDA</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5105"
+       y="778.41412"
+       x="55.129112"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="778.41412"
+         x="55.129112"
+         id="tspan5107"
+         sodipodi:role="line">SCL</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5101-5"
+       y="859.87817"
+       x="56.793995"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="859.87817"
+         x="56.793995"
+         id="tspan5103-3"
+         sodipodi:role="line">USB</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5127"
+       y="936.41412"
+       x="213.86227"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="936.41412"
+         x="213.86227"
+         id="tspan5129"
+         sodipodi:role="line">A5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="204.599"
+       y="936.41412"
+       id="text5131"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5133"
+         x="204.599"
+         y="936.41412">A4</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5135"
+       y="936.41412"
+       x="195.8056"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="936.41412"
+         x="195.8056"
+         id="tspan5137"
+         sodipodi:role="line">A3</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5139"
+       y="936.41412"
+       x="186.599"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="936.41412"
+         x="186.599"
+         id="tspan5141"
+         sodipodi:role="line">A2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="177.8056"
+       y="936.41412"
+       id="text5143"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5145"
+         x="177.8056"
+         y="936.41412">A1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="168.599"
+       y="936.41412"
+       id="text5147"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5149"
+         x="168.599"
+         y="936.41412">A0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="141.86227"
+       y="936.41412"
+       id="text5151"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5153"
+         x="141.86227"
+         y="936.41412">G</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5155"
+       y="936.41412"
+       x="132.599"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="936.41412"
+         x="132.599"
+         id="tspan5157"
+         sodipodi:role="line">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="123.8056"
+       y="936.41412"
+       id="text5159"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5161"
+         x="123.8056"
+         y="936.41412">5V</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5167"
+       y="936.41412"
+       x="105.8056"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="936.41412"
+         x="105.8056"
+         id="tspan5169"
+         sodipodi:role="line">Rst</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5171"
+       y="936.41412"
+       x="96.598999"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="936.41412"
+         x="96.598999"
+         id="tspan5173"
+         sodipodi:role="line">IOV</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5175"
+       y="936.41412"
+       x="150.7424"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="936.41412"
+         x="150.7424"
+         id="tspan5177"
+         sodipodi:role="line">Vin</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4883-4-0"
+       y="88.012589"
+       x="-952.30328"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="88.012589"
+         x="-952.30328"
+         id="tspan4885-2-4"
+         sodipodi:role="line">SJ6</tspan></text>
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5001-1"
+       width="10.981473"
+       height="7.0382152"
+       x="73.172897"
+       y="948.86084"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-952.30328"
+       y="128.51897"
+       id="text5200"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5202"
+         x="-952.30328"
+         y="128.51897">SJ7</tspan></text>
+    <rect
+       y="948.86084"
+       x="113.67928"
+       height="7.0382152"
+       width="10.981473"
+       id="rect5204"
+       style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5206"
+       y="173.50766"
+       x="-952.30328"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="173.50766"
+         x="-952.30328"
+         id="tspan5208"
+         sodipodi:role="line">SJ8</tspan></text>
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5210"
+       width="10.981473"
+       height="7.0382152"
+       x="158.66798"
+       y="948.86084"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-952.30328"
+       y="213.98293"
+       id="text5212"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5214"
+         x="-952.30328"
+         y="213.98293">SJ9</tspan></text>
+    <rect
+       y="948.86084"
+       x="199.14325"
+       height="7.0382152"
+       width="10.981473"
+       id="rect5216"
+       style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-891.68097"
+       y="54.012589"
+       id="text5218"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5220"
+         x="-891.68097"
+         y="54.012589">OFF</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5222"
+       y="54.012589"
+       x="-918.30328"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="54.012589"
+         x="-918.30328"
+         id="tspan5224"
+         sodipodi:role="line">ON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="60.316399"
+       y="925.52313"
+       id="text5226"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5228"
+         x="60.316399"
+         y="925.52313">S1</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5230"
+       y="971.52313"
+       x="88.316399"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="971.52313"
+         x="88.316399"
+         id="tspan5232"
+         sodipodi:role="line">S2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="128.31641"
+       y="971.52313"
+       id="text5234"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5236"
+         x="128.31641"
+         y="971.52313">S3</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5238"
+       y="971.52313"
+       x="173.35178"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         y="971.52313"
+         x="173.35178"
+         id="tspan5240"
+         sodipodi:role="line">S4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="213.35178"
+       y="971.52313"
+       id="text5242"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5244"
+         x="213.35178"
+         y="971.52313">S5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="134.2739"
+       y="915.62061"
+       id="text5246"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><tspan
+         sodipodi:role="line"
+         id="tspan5248"
+         x="134.2739"
+         y="915.62061">1547</tspan></text>
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5250"
+       cx="134.92603"
+       cy="691.44812"
+       r="12.086038"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5252"
+       width="8.0190506"
+       height="3.7349"
+       x="63.658077"
+       y="895.3316"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       y="905.98706"
+       x="63.658077"
+       height="3.7349"
+       width="8.0190506"
+       id="rect5254"
+       style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5256"
+       width="8.0190506"
+       height="3.7349"
+       x="63.658077"
+       y="911.20496"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5258"
+       width="3.7349"
+       height="5.16295"
+       x="62.834202"
+       y="915.81866"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       y="889.28992"
+       x="62.834202"
+       height="5.16295"
+       width="3.7349"
+       id="rect5260"
+       style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5262"
+       width="3.7898252"
+       height="5.7671251"
+       x="54.760227"
+       y="889.34479"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <rect
+       y="915.10461"
+       x="54.760227"
+       height="5.7671251"
+       width="3.7898252"
+       id="rect5264"
+       style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+  </g>
+</svg>
