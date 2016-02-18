@@ -93,7 +93,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="7.0085108"
      inkscape:cx="136.26893"
-     inkscape:cy="46.528272"
+     inkscape:cy="288.2344"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -126,7 +126,8 @@
        x="49.533939"
        y="671.03796"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        style="fill:#ffffff;stroke:#ffffff;stroke-width:0.102446;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4244"
@@ -135,7 +136,8 @@
        x="49.49791"
        y="774.12213"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        style="fill:#ffffff;stroke:#ffffff;stroke-width:0.10045403;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4244-6"
@@ -144,7 +146,8 @@
        x="49.422226"
        y="885.61743"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        style="fill:#ffffff;stroke:#ffffff;stroke-width:36;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4244-0"
@@ -153,7 +156,8 @@
        x="68.25"
        y="990.24078"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <image
        y="820.42578"
        x="97.472931"
@@ -164,27 +168,30 @@
        height="64.207321"
        width="67.5"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;stroke:none;stroke-width:0.05202765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 134.86604,671.35947 a 85.473984,85.473984 0 0 0 -82.37304,63.02539 l 164.82616,0 a 85.473984,85.473984 0 0 0 -82.45312,-63.02539 z"
        id="path4854"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="59.787254"
+       x="52.843895"
        y="815.41528"
        id="text4871"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4873"
-         x="59.787254"
-         y="815.41528">Where's</tspan></text>
+         x="52.843895"
+         y="815.41528">&quot;Where's</tspan></text>
     <rect
        y="972.24078"
        x="50.246151"
@@ -193,20 +200,22 @@
        id="rect5266"
        style="fill:#ffffff;stroke:none;stroke-width:36;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <text
        sodipodi:linespacing="125%"
        id="text4875"
        y="1009.4153"
-       x="62.150177"
+       x="54.188099"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="1009.4153"
-         x="62.150177"
+         x="54.188099"
          id="tspan4877"
-         sodipodi:role="line">Waldo?</tspan></text>
+         sodipodi:role="line">Waldo?&quot;</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -215,7 +224,8 @@
        id="text4879"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4881"
          x="57.137737"
@@ -228,7 +238,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="740.99969"
          x="73.22979"
          id="tspan4885"
@@ -241,7 +252,8 @@
        id="text4897"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4899"
          x="90.857025"
@@ -254,7 +266,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="740.99969"
          x="108.39674"
          id="tspan4903"
@@ -267,7 +280,8 @@
        id="text4905"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4907"
          x="125.93645"
@@ -280,7 +294,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="740.99969"
          x="143.47617"
          id="tspan4911"
@@ -293,7 +308,8 @@
        id="text4913"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4915"
          x="161.10793"
@@ -306,7 +322,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="740.99969"
          x="178.60161"
          id="tspan4919"
@@ -319,7 +336,8 @@
        id="text4921"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4923"
          x="196.09528"
@@ -332,7 +350,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="740.99969"
          x="212.09528"
          id="tspan4927"
@@ -345,7 +364,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="756.99969"
          x="57.137737"
          id="tspan4931"
@@ -358,7 +378,8 @@
        id="text4933"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4935"
          x="73.22979"
@@ -371,7 +392,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="756.99969"
          x="90.857025"
          id="tspan4939"
@@ -384,7 +406,8 @@
        id="text4941"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4943"
          x="108.39674"
@@ -397,7 +420,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="756.99969"
          x="125.93645"
          id="tspan4947"
@@ -410,7 +434,8 @@
        id="text4949"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4951"
          x="143.47617"
@@ -423,7 +448,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="756.99969"
          x="161.10793"
          id="tspan4955"
@@ -436,7 +462,8 @@
        id="text4957"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4959"
          x="178.60161"
@@ -449,7 +476,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="756.99969"
          x="196.09528"
          id="tspan4963"
@@ -462,7 +490,8 @@
        id="text4965"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4967"
          x="212.09528"
@@ -476,7 +505,8 @@
        xml:space="preserve"
        transform="matrix(0,-1,1,0,0,0)"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="85.818443"
          x="-761.10504"
          id="tspan4885-2"
@@ -490,7 +520,8 @@
        id="text4977"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4979"
          x="-761.10504"
@@ -504,7 +535,8 @@
        xml:space="preserve"
        transform="matrix(0,-1,1,0,0,0)"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="153.28903"
          x="-761.10504"
          id="tspan4983"
@@ -518,7 +550,8 @@
        id="text4985"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4987"
          x="-761.10504"
@@ -532,7 +565,8 @@
        xml:space="preserve"
        transform="matrix(0,-1,1,0,0,0)"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="207.28903"
          x="-761.10504"
          id="tspan4991"
@@ -545,7 +579,8 @@
        x="208.12071"
        y="757.6626"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        y="757.6626"
        x="174.3763"
@@ -554,7 +589,8 @@
        id="rect4995"
        style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4997"
@@ -563,7 +599,8 @@
        x="138.44933"
        y="757.6626"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        y="757.6626"
        x="106.90573"
@@ -572,7 +609,8 @@
        id="rect4999"
        style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5001"
@@ -581,7 +619,8 @@
        x="70.978752"
        y="757.6626"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -590,7 +629,8 @@
        id="text4879-7"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan4881-8"
          x="213.86227"
@@ -603,7 +643,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="778.41412"
          x="204.599"
          id="tspan5023"
@@ -616,7 +657,8 @@
        id="text5025"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5027"
          x="195.8056"
@@ -629,7 +671,8 @@
        id="text5033"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5035"
          x="186.599"
@@ -642,7 +685,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="778.41412"
          x="177.8056"
          id="tspan5039"
@@ -655,7 +699,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="778.41412"
          x="168.599"
          id="tspan5047"
@@ -668,7 +713,8 @@
        id="text5049"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5051"
          x="159.8056"
@@ -681,7 +727,8 @@
        id="text5057"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5059"
          x="150.599"
@@ -694,7 +741,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="778.41412"
          x="136.39238"
          id="tspan5067"
@@ -707,7 +755,8 @@
        id="text5069"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5071"
          x="127.1291"
@@ -720,7 +769,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="778.41412"
          x="118.33572"
          id="tspan5075"
@@ -733,7 +783,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="778.41412"
          x="109.1291"
          id="tspan5079"
@@ -746,7 +797,8 @@
        id="text5081"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5083"
          x="100.33572"
@@ -759,7 +811,8 @@
        id="text5085"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5087"
          x="91.129112"
@@ -772,7 +825,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="778.41412"
          x="82.335716"
          id="tspan5091"
@@ -785,7 +839,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="778.41412"
          x="73.129112"
          id="tspan5095"
@@ -798,7 +853,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="778.41412"
          x="64.335716"
          id="tspan5103"
@@ -811,7 +867,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="778.41412"
          x="55.129112"
          id="tspan5107"
@@ -824,7 +881,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="859.87817"
          x="56.793995"
          id="tspan5103-3"
@@ -837,7 +895,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="936.41412"
          x="213.86227"
          id="tspan5129"
@@ -850,7 +909,8 @@
        id="text5131"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5133"
          x="204.599"
@@ -863,7 +923,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="936.41412"
          x="195.8056"
          id="tspan5137"
@@ -876,7 +937,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="936.41412"
          x="186.599"
          id="tspan5141"
@@ -889,7 +951,8 @@
        id="text5143"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5145"
          x="177.8056"
@@ -902,7 +965,8 @@
        id="text5147"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5149"
          x="168.599"
@@ -915,7 +979,8 @@
        id="text5151"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5153"
          x="141.86227"
@@ -928,7 +993,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="936.41412"
          x="132.599"
          id="tspan5157"
@@ -941,7 +1007,8 @@
        id="text5159"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5161"
          x="123.8056"
@@ -954,7 +1021,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="936.41412"
          x="105.8056"
          id="tspan5169"
@@ -967,7 +1035,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="936.41412"
          x="96.598999"
          id="tspan5173"
@@ -980,7 +1049,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="936.41412"
          x="150.7424"
          id="tspan5177"
@@ -994,7 +1064,8 @@
        xml:space="preserve"
        transform="matrix(0,-1,1,0,0,0)"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="88.012589"
          x="-952.30328"
          id="tspan4885-2-4"
@@ -1007,7 +1078,8 @@
        x="73.172897"
        y="948.86084"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <text
        transform="matrix(0,-1,1,0,0,0)"
        xml:space="preserve"
@@ -1017,7 +1089,8 @@
        id="text5200"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5202"
          x="-952.30328"
@@ -1030,7 +1103,8 @@
        id="rect5204"
        style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <text
        sodipodi:linespacing="125%"
        id="text5206"
@@ -1040,7 +1114,8 @@
        xml:space="preserve"
        transform="matrix(0,-1,1,0,0,0)"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="173.50766"
          x="-952.30328"
          id="tspan5208"
@@ -1053,7 +1128,8 @@
        x="158.66798"
        y="948.86084"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <text
        transform="matrix(0,-1,1,0,0,0)"
        xml:space="preserve"
@@ -1063,7 +1139,8 @@
        id="text5212"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5214"
          x="-952.30328"
@@ -1076,7 +1153,8 @@
        id="rect5216"
        style="fill:none;stroke:#ffffff;stroke-width:0.57202309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <text
        transform="matrix(0,-1,1,0,0,0)"
        xml:space="preserve"
@@ -1086,7 +1164,8 @@
        id="text5218"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5220"
          x="-891.68097"
@@ -1100,7 +1179,8 @@
        xml:space="preserve"
        transform="matrix(0,-1,1,0,0,0)"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="54.012589"
          x="-918.30328"
          id="tspan5224"
@@ -1113,7 +1193,8 @@
        id="text5226"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5228"
          x="60.316399"
@@ -1126,7 +1207,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="971.52313"
          x="88.316399"
          id="tspan5232"
@@ -1139,7 +1221,8 @@
        id="text5234"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5236"
          x="128.31641"
@@ -1152,7 +1235,8 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.18337488px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          y="971.52313"
          x="173.35178"
          id="tspan5240"
@@ -1165,7 +1249,8 @@
        id="text5242"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5244"
          x="213.35178"
@@ -1178,7 +1263,8 @@
        id="text5246"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200"><tspan
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png"><tspan
          sodipodi:role="line"
          id="tspan5248"
          x="134.2739"
@@ -1190,7 +1276,8 @@
        cy="691.44812"
        r="12.086038"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5252"
@@ -1199,7 +1286,8 @@
        x="63.658077"
        y="895.3316"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        y="905.98706"
        x="63.658077"
@@ -1208,7 +1296,8 @@
        id="rect5254"
        style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5256"
@@ -1217,7 +1306,8 @@
        x="63.658077"
        y="911.20496"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5258"
@@ -1226,7 +1316,8 @@
        x="62.834202"
        y="915.81866"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        y="889.28992"
        x="62.834202"
@@ -1235,7 +1326,8 @@
        id="rect5260"
        style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5262"
@@ -1244,7 +1336,8 @@
        x="54.760227"
        y="889.34479"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
     <rect
        y="915.10461"
        x="54.760227"
@@ -1253,6 +1346,7 @@
        id="rect5264"
        style="fill:#000000;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="1200"
-       inkscape:export-ydpi="1200" />
+       inkscape:export-ydpi="1200"
+       inkscape:export-filename="C:\Projects\waldobadge\pcb\rect5270.png" />
   </g>
 </svg>
